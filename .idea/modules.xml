@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaBase.iml" filepath="$PROJECT_DIR$/JavaBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-00-interview/java-00-interview.iml" filepath="$PROJECT_DIR$/java-00-interview/java-00-interview.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-01-annotation/java-01-annotation.iml" filepath="$PROJECT_DIR$/java-01-annotation/java-01-annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-02-reflection/java-02-reflection.iml" filepath="$PROJECT_DIR$/java-02-reflection/java-02-reflection.iml" />
     </modules>

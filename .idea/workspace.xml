@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff6fc3c7-2570-48dc-b2b0-31151b2290d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +35,6 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -148,7 +149,8 @@
       <workItem from="1606221721559" duration="2288000" />
       <workItem from="1606307168811" duration="918000" />
       <workItem from="1607563671858" duration="3156000" />
-      <workItem from="1607665744038" duration="3719000" />
+      <workItem from="1607665744038" duration="4143000" />
+      <workItem from="1607670599105" duration="1236000" />
     </task>
     <servers />
   </component>
@@ -164,22 +166,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607586279646" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1607669578772">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1607670005452">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607669578772" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1607669578772">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607670005452" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1607670005452">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607669578772" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1607669578771">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607670005452" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1607670005451">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607669578771" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1607669578772">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607670005451" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1607670005452">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607669578772" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607670005452" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1606224027235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -200,10 +202,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="97" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607668913775" />
-    <state x="334" y="136" key="new project wizard" timestamp="1607563764423">
+    <state x="334" y="136" key="new project wizard" timestamp="1607670662797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="334" y="136" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1607563764423" />
+    <state x="334" y="136" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1607670662797" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1607667892625">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-01-annotation/java-01-annotation.iml" filepath="$PROJECT_DIR$/java-01-annotation/java-01-annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-02-reflection/java-02-reflection.iml" filepath="$PROJECT_DIR$/java-02-reflection/java-02-reflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-03-oop/java-03-oop.iml" filepath="$PROJECT_DIR$/java-03-oop/java-03-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-04-common/java-04-common.iml" filepath="$PROJECT_DIR$/java-04-common/java-04-common.iml" />
     </modules>
   </component>
 </project>

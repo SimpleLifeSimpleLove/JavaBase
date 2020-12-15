@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff6fc3c7-2570-48dc-b2b0-31151b2290d4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -53,20 +52,7 @@
       <recent name="D:\Code\github\JavaBase\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.NowCoder_0002.test02">
-    <configuration name="Base" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nowcoder_0001.Base" />
-      <module name="java-00-interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nowcoder_0001.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.StringTest.test03">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nowcoder_0002.Test" />
       <module name="java-00-interview" />
@@ -76,35 +62,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nowcoder_0002.TestObj" />
-      <module name="java-00-interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nowcoder_0002.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NowCoder_0002.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-00-interview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nowcoder_0002.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="nowcoder_0002" />
-      <option name="MAIN_CLASS_NAME" value="nowcoder_0002.NowCoder_0002" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,13 +82,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-04-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wxx.stringtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wxx.stringtest" />
+      <option name="MAIN_CLASS_NAME" value="com.wxx.stringtest.StringTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-04-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wxx.stringtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wxx.stringtest" />
+      <option name="MAIN_CLASS_NAME" value="com.wxx.stringtest.StringTest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-04-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wxx.stringtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wxx.stringtest" />
+      <option name="MAIN_CLASS_NAME" value="com.wxx.stringtest.StringTest" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StringTest.test03" />
+        <item itemvalue="JUnit.StringTest.test02" />
+        <item itemvalue="JUnit.StringTest.test01" />
         <item itemvalue="JUnit.NowCoder_0002.test02" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.TestObj" />
-        <item itemvalue="JUnit.NowCoder_0002.test01" />
-        <item itemvalue="Application.Base" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +155,9 @@
       <workItem from="1606307168811" duration="918000" />
       <workItem from="1607563671858" duration="3156000" />
       <workItem from="1607665744038" duration="4143000" />
-      <workItem from="1607670599105" duration="1236000" />
+      <workItem from="1607670599105" duration="1481000" />
+      <workItem from="1608034845151" duration="4020000" />
+      <workItem from="1608039792874" duration="2005000" />
     </task>
     <servers />
   </component>
@@ -158,61 +165,61 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1607667687615">
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1608040719678">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607667687615" />
-    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1607586279646">
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608040719678" />
+    <state x="629" y="273" key="FileChooserDialogImpl" timestamp="1608037583936">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607586279646" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1607670005452">
+    <state x="629" y="273" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608037583936" />
+    <state width="1877" height="330" key="GridCell.Tab.0.bottom" timestamp="1608041829013">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607670005452" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1607670005452">
+    <state width="1877" height="330" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608041829013" />
+    <state width="1877" height="330" key="GridCell.Tab.0.center" timestamp="1608041829013">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607670005452" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1607670005451">
+    <state width="1877" height="330" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608041829013" />
+    <state width="1877" height="330" key="GridCell.Tab.0.left" timestamp="1608041829013">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607670005451" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1607670005452">
+    <state width="1877" height="330" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608041829013" />
+    <state width="1877" height="330" key="GridCell.Tab.0.right" timestamp="1608041829013">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607670005452" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1606224027235">
+    <state width="1877" height="330" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608041829013" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1608040863255">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606224027235" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1606224027235">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608040863255" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1608040863254">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606224027235" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1606224027235">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608040863254" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1608040863254">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606224027235" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1606224027235">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608040863254" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1608040863254">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606224027235" />
-    <state x="440" y="97" key="SettingsEditor" timestamp="1607668913775">
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608040863254" />
+    <state x="-141" y="96" key="SettingsEditor" timestamp="1608037594812">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="97" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607668913775" />
-    <state x="334" y="136" key="new project wizard" timestamp="1607670662797">
+    <state x="-141" y="96" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608037594812" />
+    <state x="28" y="272" key="new project wizard" timestamp="1608035701660">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="334" y="136" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1607670662797" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1607667892625">
+    <state x="28" y="272" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1608035701660" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1608037677863">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607667892625" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607669614293">
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608037677863" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1608040364115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607669614293" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608040364115" />
   </component>
 </project>

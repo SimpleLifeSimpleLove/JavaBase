@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff6fc3c7-2570-48dc-b2b0-31151b2290d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-05-exception" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-07-io/images" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -48,6 +49,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\github\JavaBase\java-06-io" />
+      <recent name="D:\Code\github\JavaBase\java-05-exception\images" />
+      <recent name="D:\Code\github\JavaBase\java-05-exception" />
       <recent name="D:\Code\github\JavaBase\lib" />
     </key>
   </component>
@@ -163,7 +167,7 @@
       <workItem from="1608103404339" duration="76000" />
       <workItem from="1608122163739" duration="4859000" />
       <workItem from="1608183826209" duration="4839000" />
-      <workItem from="1608208322808" duration="3968000" />
+      <workItem from="1608208322808" duration="4256000" />
     </task>
     <servers />
   </component>
@@ -215,10 +219,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608187156900" />
-    <state x="333" y="198" key="new project wizard" timestamp="1608213703426">
+    <state x="333" y="198" key="new project wizard" timestamp="1608213938817">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="333" y="198" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1608213703426" />
+    <state x="333" y="198" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1608213938817" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1608037677863">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

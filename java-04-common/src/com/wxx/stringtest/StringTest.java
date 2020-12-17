@@ -82,7 +82,7 @@ public class StringTest {
     /*
     通过下面的测试，可以得到如下结论：
         1. 常量与常量拼接的结果仍然在方法区中的常量池中。且常量池不会存在相同内容的常量。
-        2. 拼接的过程中只要有一个是变量，结果就在堆中。
+        2. 拼接的过程中只要有一个是变量(包括基本类型的变量)，结果就在堆中。
         3. 如果拼接的结果调用 intern() 方法，返回值就在常量池中。
      */
     @Test
@@ -107,5 +107,10 @@ public class StringTest {
 
         String s8 = s5.intern();  // 返回值得到的 s8 使用常量池中已经存在的"JavaEEHadoop"
         System.out.println(s3 == s8);  // true
+
+        System.out.println("===============================");
+        final String s9 = "JavaEE";  // s9 是常量
+        String s10 = s9 + "Hadoop";
+        System.out.println(s3 == s10);  // true
     }
 }

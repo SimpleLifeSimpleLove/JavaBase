@@ -143,6 +143,5 @@ public class StringMethodTest {
         for (String str : strs2) {
             System.out.println(str);
         }
-
     }
 }

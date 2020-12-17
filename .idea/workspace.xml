@@ -40,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/junit-4.10.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-05-exception" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -163,7 +163,7 @@
       <workItem from="1608103404339" duration="76000" />
       <workItem from="1608122163739" duration="4859000" />
       <workItem from="1608183826209" duration="4839000" />
-      <workItem from="1608208322808" duration="3447000" />
+      <workItem from="1608208322808" duration="3968000" />
     </task>
     <servers />
   </component>
@@ -179,22 +179,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="629" y="273" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608037583936" />
-    <state width="1877" height="330" key="GridCell.Tab.0.bottom" timestamp="1608213240687">
+    <state width="1877" height="330" key="GridCell.Tab.0.bottom" timestamp="1608213338109">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="330" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608213240687" />
-    <state width="1877" height="330" key="GridCell.Tab.0.center" timestamp="1608213240687">
+    <state width="1877" height="330" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608213338109" />
+    <state width="1877" height="330" key="GridCell.Tab.0.center" timestamp="1608213338109">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="330" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608213240687" />
-    <state width="1877" height="330" key="GridCell.Tab.0.left" timestamp="1608213240686">
+    <state width="1877" height="330" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608213338109" />
+    <state width="1877" height="330" key="GridCell.Tab.0.left" timestamp="1608213338109">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="330" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608213240686" />
-    <state width="1877" height="330" key="GridCell.Tab.0.right" timestamp="1608213240687">
+    <state width="1877" height="330" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608213338109" />
+    <state width="1877" height="330" key="GridCell.Tab.0.right" timestamp="1608213338109">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="330" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608213240687" />
+    <state width="1877" height="330" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608213338109" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1608212292353">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -215,10 +215,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608187156900" />
-    <state x="28" y="272" key="new project wizard" timestamp="1608035701660">
+    <state x="333" y="198" key="new project wizard" timestamp="1608213703426">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="28" y="272" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1608035701660" />
+    <state x="333" y="198" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1608213703426" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1608037677863">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

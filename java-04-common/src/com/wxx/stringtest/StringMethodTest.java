@@ -117,5 +117,32 @@ public class StringMethodTest {
     @Test
     public void test03() {
 
+        String s1 = "大连 大连理工大学";
+        System.out.println(s1.replace('连', '理'));
+        System.out.println(s1.replace("大连", "北京"));
+
+        System.out.println("===============================");
+        String s2 = "12hello34world5java7981mysql1456";
+        System.out.println(s2.replaceAll("\\d+", ",").replaceAll("^,|,$", ""));
+
+        System.out.println("===============================");
+        String s3 = "12345";
+        System.out.println(s3.matches("\\d+"));
+        String tel = "0571-4534289";
+        System.out.println(tel.matches("0571-\\d{7,8}"));
+
+        System.out.println("===============================");
+        String s4 = "hello   world  java";
+        String[] strs = s4.split("\\s+");
+        for (String str : strs) {
+            System.out.println(str);
+        }
+        System.out.println();
+        String s5 = "hello.world.java";
+        String[] strs2 = s5.split("\\.");
+        for (String str : strs2) {
+            System.out.println(str);
+        }
+
     }
 }

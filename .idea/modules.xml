@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-03-oop/java-03-oop.iml" filepath="$PROJECT_DIR$/java-03-oop/java-03-oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-04-common/java-04-common.iml" filepath="$PROJECT_DIR$/java-04-common/java-04-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-05-exception/java-05-exception.iml" filepath="$PROJECT_DIR$/java-05-exception/java-05-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-06-collection/java-06-collection.iml" filepath="$PROJECT_DIR$/java-06-collection/java-06-collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-07-io/java-07-io.iml" filepath="$PROJECT_DIR$/java-07-io/java-07-io.iml" />
     </modules>
   </component>

@@ -55,13 +55,26 @@
       <recent name="D:\Code\github\JavaBase\java-07-io\images" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bground">
+  <component name="RunManager" selected="Application.Exercise2">
     <configuration name="Bground" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nowcoder_0003.Bground" />
       <module name="java-00-interview" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="nowcoder_0003.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxx.stringtest.exercise.Exercise2" />
+      <module name="java-04-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wxx.stringtest.exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,22 +114,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBufferBuilderTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-04-common" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wxx.stringtest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wxx.stringtest" />
-      <option name="MAIN_CLASS_NAME" value="com.wxx.stringtest.StringBufferBuilderTest" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringBufferBuilderTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-04-common" />
       <extension name="coverage">
@@ -135,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise2" />
         <item itemvalue="Application.Bground" />
         <item itemvalue="JUnit.DateTimeTest.test02" />
         <item itemvalue="JUnit.DateTimeTest.test01" />
         <item itemvalue="JUnit.StringBufferBuilderTest.test03" />
-        <item itemvalue="JUnit.StringBufferBuilderTest.test02" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +163,7 @@
       <workItem from="1608183826209" duration="4839000" />
       <workItem from="1608208322808" duration="5046000" />
       <workItem from="1608257446265" duration="1966000" />
-      <workItem from="1608296750249" duration="1839000" />
+      <workItem from="1608296750249" duration="3172000" />
     </task>
     <servers />
   </component>
@@ -182,22 +179,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="629" y="273" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608037583936" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1608298608177">
+    <state width="1877" height="330" key="GridCell.Tab.0.bottom" timestamp="1608300574443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608298608177" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1608298608176">
+    <state width="1877" height="330" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608300574443" />
+    <state width="1877" height="330" key="GridCell.Tab.0.center" timestamp="1608300574443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608298608176" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1608298608176">
+    <state width="1877" height="330" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608300574443" />
+    <state width="1877" height="330" key="GridCell.Tab.0.left" timestamp="1608300574443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608298608176" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1608298608177">
+    <state width="1877" height="330" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608300574443" />
+    <state width="1877" height="330" key="GridCell.Tab.0.right" timestamp="1608300574443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608298608177" />
+    <state width="1877" height="330" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608300574443" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1608298608177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

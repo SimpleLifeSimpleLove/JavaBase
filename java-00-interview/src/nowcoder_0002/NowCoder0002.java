@@ -6,7 +6,7 @@ import org.junit.Test;
  * Date: 2020/12/11 14:01
  * Content:
  */
-public class NowCoder_0002 {
+public class NowCoder0002 {
 
     @Test
     public void test01() {

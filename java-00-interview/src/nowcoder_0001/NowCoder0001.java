@@ -6,7 +6,7 @@ import org.junit.Test;
  * Date: 2020/12/10 9:33
  * Content:
  */
-public class NowCoder_0001 {
+public class NowCoder0001 {
 
     /*
     (单选题)对于Java类型变量 char c、 short s、 float f、 double d表达式

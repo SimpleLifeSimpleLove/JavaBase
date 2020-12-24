@@ -55,7 +55,7 @@
       <recent name="D:\Code\github\JavaBase\java-07-io\images" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Derived">
+  <component name="RunManager" selected="Application.InstanceofTest">
     <configuration name="Bground" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nowcoder_0003.Bground" />
       <module name="java-00-interview" />
@@ -95,18 +95,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateTimeTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-04-common" />
+    <configuration name="InstanceofTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoder_0005.InstanceofTest" />
+      <module name="java-00-interview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wxx.datetimetest.*" />
+          <option name="PATTERN" value="nowcoder_0005.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.wxx.datetimetest" />
-      <option name="MAIN_CLASS_NAME" value="com.wxx.datetimetest.DateTimeTest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InstanceofTest" />
         <item itemvalue="Application.Derived" />
         <item itemvalue="Application.Exercise2" />
         <item itemvalue="Application.Bground" />
         <item itemvalue="JUnit.DateTimeTest.test02" />
-        <item itemvalue="JUnit.DateTimeTest.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +158,8 @@
       <workItem from="1608208322808" duration="5046000" />
       <workItem from="1608257446265" duration="1966000" />
       <workItem from="1608296750249" duration="3923000" />
-      <workItem from="1608642852080" duration="596000" />
+      <workItem from="1608642852080" duration="2435000" />
+      <workItem from="1608778768215" duration="3563000" />
     </task>
     <servers />
   </component>
@@ -177,22 +175,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="629" y="273" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608037583936" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1608301116282">
+    <state width="963" height="214" key="GridCell.Tab.0.bottom" timestamp="1608780535737">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608301116282" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1608301116282">
+    <state width="963" height="214" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608780535737" />
+    <state width="963" height="214" key="GridCell.Tab.0.center" timestamp="1608780535737">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608301116282" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1608301116282">
+    <state width="963" height="214" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608780535737" />
+    <state width="963" height="214" key="GridCell.Tab.0.left" timestamp="1608780535737">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608301116282" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1608301116282">
+    <state width="963" height="214" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608780535737" />
+    <state width="963" height="214" key="GridCell.Tab.0.right" timestamp="1608780535737">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608301116282" />
+    <state width="963" height="214" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608780535737" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1608301116282">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
